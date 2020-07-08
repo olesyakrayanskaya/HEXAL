@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<defs>
+		<image width="24" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IB2cksfwAAAXRQTFRFyyAnyyAnyyAnyyAnyx4myyEnyhkjyBIZyRobyRwdyBMZyhojyiAmyyAmyRgf0D0434B+56qi6LCm34SBzjYwyhogyiAnyRYd1l5Y79TF4p+L2mts23Nw6r2r79HF005EyhohyRgg0UZD8dzP2GZdyiIhzCsnyRYa5aWb8drQzTAsyx0myRsd45yT6LOmyR4c4pmN6sGvzSwvyRYf01RG9O3j12dbyyEmyx8myyMl68Ox3n6AzCQm9vPu8NnOzS8xyRgh0k9B9Ozi2nBlyRYeyh8myhsf45qO6LWpzC0q79bL45+UyR4fyBId23Zs9e7m0lJFyRgi0UI/4JeB0kJC9vPt3XZ5xggPySAd68O77cvByiEiyh0jyR0g1V9S+fr46r6w3IV06r6u8t7U0lRIyhki4JOD7MW901VG5p6h45KSz0A4yRkfyiEmyRoh7MW75J+YxgsUxw8WyBAYyRsjyhwj783H0k5FyRoj12BZyh0lyRoe9tupKQAAAHx0Uk5T9ez/9////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////3O1KMMAAAEaSURBVHiclZJXU0JBDIWXQFQ0wY5dsYtdUcFesXfF3jvYe/vz5jruqjOXGc3TznznJDm7q5R9ORTYlzMeUH8CLpcdwITEJHdyCv4CSAye1LT0jMysbC+SBowMmJObl19QWFRc4qNvBxGUlpVXVFZVu2v8tXX4BYgZuL6hsam5pTXQ1t4R0ACChKHOru6e3r7+gcGh4RENEJHDo2PjE5NT0zOzc/MLxkFM5FtcWo6srK6tb2yC3oqQRLO1vbO7t39weHQMrIHEIGDPyelZNHZ+AXRpcggCuLq+ub27fyA0yaWVLACPT88vn02tWPpK5Iih1zcxYhBJD2drX5G+y1S2JGxyEHuJMMwitvQ/WpkSM5kc/3xaZ5zfoxwfUOskxF6iUo4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="About Me">
+		<g id="Social Media">
+			<use id="Pinterest" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

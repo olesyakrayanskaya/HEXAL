@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24" width="25" height="24">
+	<defs>
+		<image width="25" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAYCAMAAAA4a6b0AAAAAXNSR0IB2cksfwAAAZ5QTFRF3FRD3FRD3FRD3FRD3FRD3FRD3FRD21RC3FVD3FRC3FNC3FJB3FJC3FND20893FZE3FhE21I93VlG3FdF21A+21E/4XJe4nli552I7Lap5ZR93mVQ20w74G1c4GpY21E+2kw75Yx855mE3mBM4XNf9efg662e21A96JmK5pGB3VZE3FJA3FhD8tXL43tt2Uw62ks555mH89rS3l9K55aG8MW57sG16JqK3V5K3FA/3VxH55eG2k0520075Y1789rU3F1I2UEv5Yp65IBw2kY02k075o+A8tXI4HRg3FlH55iE44Nw20483FFA32lW32ZT3FE/4nto6amZ8dXJ5Y962kw53FNB3FVC20s69OHb7sG03VtG3FA+4HFd5pSA4HNc5Y979NzT78a53l5L4n1r7r+w3mRR21A/3FZC8MrB6aaZ20063FI+78i76qSb2UIt2UUz5Y+D6rKi21I+55uL8dPI4XRg2k483mJO6J+O4nxr21M/5Yl655qG5Ilz44Ft4oFq4XJf21VC2ko521dE32hW32ZU21ZD204921NCqjBnJAAAAIp0Uk5T7PXV9//g3v//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////zaXkgQAAASpJREFUeJyV0lVTw0AQAOAUDnY3ocFS3K1A0WLF3VMoluDu7u7OvybINNeZZhju6Wa+273duxUEW/AVIoSy4CtMsFlI+F8CgCRKUoQdiBEiJ4QgR0ZFx8SSoiAFCHPExSckJiWnpKals2/6FczIzMrOyc1zsvyCQmTgF3QVFZeUlpW7Kyqrqms8kpkNa+vc9Q2NTc0trW3tHYzIL0SdXd09vX39qndg0Ee8IJOHhkdGx5AkDYmrgHTmGPdMTE5No3E5cBWAXZmZnZtfWFzyElDAG6jLK6tr6vrG5tZXb7qZTdze2d1jsH9weKQBARcjOo9PTpWz84tLlRHonKB0dX1ze3f/IBt1AXvkhLSn55fXt3cjwnh1MAWMo+RzfcDPjuv0v39qPSGWU/UJeBYwuZOJNswAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="About Me">
+		<g id="Social Media">
+			<use id="Google" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
