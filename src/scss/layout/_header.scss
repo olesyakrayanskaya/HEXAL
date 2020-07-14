@@ -15,7 +15,7 @@
         border-top: 30px solid #323232;
         position: absolute;
         top: 58px;
-        left: calc(50vw - 55px);
+        left: calc(50vw - 50px);
 
         &::after {
             content: "";
@@ -41,7 +41,7 @@
     &__logo {
         position: absolute;
         top: 12px;
-        left: calc(50vw - 37px);
+        left: calc(50vw - 32px);
     }
 }
 
@@ -50,7 +50,14 @@
     flex-direction: row;
     justify-content: center;
     margin-top: 30px;
-    position: relative;
+    padding: 0 10px;
+
+    &__dots {
+        width: 2px;
+        height: 2px;
+        background-color: #474c5f;
+        margin-top: 5px;
+    }
 
     &__item {
         padding: 0 5px;
@@ -61,38 +68,35 @@
         font-family: "Lato", sans-serif;
 
         &:nth-child(1) {
-            margin-right: 25px;
-
-            &::after {
-                content: "";
-                width: 2px;
-                height: 2px;
-                background-color: #ffffff;
-                position: absolute;
-                top: 5px;
-                left: calc(50vw - 130px);
+            margin-right: 10px;
+            @media screen and (max-width: 500px) {
+                margin-right: 5px;
             }
         }
 
-        &:nth-child(2) {
-            margin-right: 70px;
-        }
-
         &:nth-child(3) {
-            margin-left: 70px;
+            margin-left: 10px;
+            @media screen and (max-width: 500px) {
+                margin-left: 5px;
+            }
         }
 
         &:nth-child(4) {
-            margin-left: 25px;
+            margin-left: 180px;
+            margin-right: 10px;
+            @media screen and (max-width: 500px) {
+                margin-right: 5px;
+                margin-left: 90px;
+            }
+            @media screen and (max-width: 350px) {
+                margin-left: 50px;
+            }
+        }
 
-            &::before {
-                content: "";
-                width: 2px;
-                height: 2px;
-                background-color: #ffffff;
-                position: absolute;
-                top: 5px;
-                right: calc(50vw - 120px);
+        &:nth-child(6) {
+            margin-left: 10px;
+            @media screen and (max-width: 500px) {
+                margin-left: 5px;
             }
         }
 

@@ -8,12 +8,12 @@
 
     &::after {
         content: "";
-        width: 92%;
+        width: 90vw;
         height: 1px;
         background-color: #e4e9eb;
         position: absolute;
         bottom: 12px;
-        left: 4%;
+        left: 5vw;
     }
 
     &__row {
