@@ -4,7 +4,20 @@
     padding: 0;
 }
 
-li, ul {
+*::after,
+::before {
+    box-sizing: border-box;
+}
+
+:active,
+:hover,
+:focus {
+    outline: none;
+    outline-offset: none;
+}
+
+li,
+ul {
     list-style: none;
 }
 
@@ -12,4 +25,5 @@ a {
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
+    color: inherit;
 }
